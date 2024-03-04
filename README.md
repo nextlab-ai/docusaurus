@@ -1,8 +1,8 @@
 # Guide
 ## 목차
-- [Navigation bar 만들기](https://github.com/nextlab-ai/docusaurus/edit/cbt-netmeter/README.md#navigation-bar-만들기)
-- [Side bar 만들기](https://github.com/nextlab-ai/docusaurus/edit/cbt-netmeter/README.md#side-bar-만들기)
-- [문서 작성하기](https://github.com/nextlab-ai/docusaurus/edit/cbt-netmeter/README.md#문서-작성하기)
+- [Navigation bar 만들기](https://github.com/nextlab-ai/docusaurus/tree/cbt-netmeter?tab=readme-ov-file#navigation-bar-만들기)
+- [Side bar 만들기](https://github.com/nextlab-ai/docusaurus/tree/cbt-netmeter?tab=readme-ov-file#side-bar-만들기)
+- [문서 작성하기](https://github.com/nextlab-ai/docusaurus/tree/cbt-netmeter?tab=readme-ov-file#문서-작성하기)
 ## Navigation bar 만들기
 - `/docusaurus.config.js`
   ```js
