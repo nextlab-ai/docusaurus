@@ -1,5 +1,9 @@
 # Guide
-### Navigation bar 만들기
+## 목차
+- [Navigation bar 만들기](https://github.com/nextlab-ai/docusaurus/edit/cbt-netmeter/README.md#navigation-bar-만들기)
+- [Side bar 만들기](https://github.com/nextlab-ai/docusaurus/edit/cbt-netmeter/README.md#side-bar-만들기)
+- [문서 작성하기](https://github.com/nextlab-ai/docusaurus/edit/cbt-netmeter/README.md#문서-작성하기)
+## Navigation bar 만들기
 - `/docusaurus.config.js`
   ```js
   themeConfig: {
@@ -34,7 +38,7 @@
   ```
 - `/docs/test` **예시** 폴더를 만들어서 문서를 작성 navigation bar 버튼 생성 끝
 
-### Side bar 만들기
+## Side bar 만들기
 - 위 순서대로 했다면 이제 `폴더`와 `파일`만 만들면 끝
 - 예시로, 위에서 만든 사이드바의 dirName에 바라보고 있는 경로에 폴더 또는 파일 생성
 - 폴더: 사이드바에서 하위 드롭다운 카테고리를 만들 경우
@@ -50,7 +54,7 @@
     ```
 - 파일: 사이드바에 파일의 첫번째 `#` 타이틀 제목이 사이드바에 표시됨
 
-### 문서 작성하기
+## 문서 작성하기
 - `파일이름.md` 파일(문서) 생성
 - 사이드바 순서
   - 최상단에 사이드바에서 몇번째에 위치할지 순서 기입
