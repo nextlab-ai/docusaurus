@@ -8,7 +8,7 @@
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus build && gh-pages -d build",
+    "deploy": "git add . && git commit -m '매뉴얼 업데이트' && git push origin main && docusaurus build && gh-pages -d build",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
