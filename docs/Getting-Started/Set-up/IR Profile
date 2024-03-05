@@ -1,0 +1,17 @@
+---
+sidebar_position: 3
+---
+
+# IR Profile
+## User Config > IR Profile 
+To register an IR Profile for conducting IR Control, you need to follow these steps:
+
+1. Create a new IR Profile
+2. Select the input format for the IR codes. You can choose between NEC and Pronto HEX formats.
+3. Enter the necessary details for the IR profile, such as IR codes or commands, using the selected input format.
+4. Click ‘Apply’ once all profile information has been entered.
+5. Click ‘Test Signal’ to confirm that the IR profile has been successfully registered and is ready for use.
+6. If needed, repeat the process to register additional channels or profiles for testing.
+7. Clicking on the registered profile list allows you to edit IR profile information.
+
+이미지 NEX, 이미지 HEX
