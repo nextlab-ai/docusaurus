@@ -23,6 +23,10 @@ enabling consistent data collection.
 
 ## Versatile Cloud-Based Operation
 
-Since netMeter is operated through a cloud-based web UI, it is not dependent on device platforms 
-and can be remotely operated from anywhere. This capability reduces unnecessary on-site visits, 
-saving costs, and enables adaptation to various usage scenarios.
+Since netMeter is operated through a cloud-based web UI, it is not dependent on device platforms and can be 
+remotely operated from anywhere. This capability reduces unnecessary on-site visits, saving costs, 
+and enables adaptation to various usage scenarios.
+
+We offer automated OTA (Over The Air) firmware updates to add additional features, providing users with 
+more to explore and meet their demands. This ensures that users can easily keep up to date with the latest enhancements 
+and functionalities without the hassle of manual updates.
