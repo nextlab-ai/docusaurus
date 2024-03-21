@@ -4,95 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="672dec38-bdee-452f-8b94-cb7488ded6aa" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/00_intro.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01_StartGuides/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/01_netMeterN1_DeviceLayout.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/02_netMeterN1_ChargingTheBattery.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/03_netMeterN1_GettingStarted.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/img/netMeterN1_BatteryIndicator.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/img/netMeterN1_DeviceCharging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/img/netMeterN1_DeviceLayout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/img/netMeterN1_DeviceRegister.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/img/netMeterN1_LEDIndicatorDescription.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/img/netMeterN1_LEDIndicatorLayout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/img/netMeterN1_SNLocation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/img/netMeterN1_WANConnection.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/img/netMeterN1_WebUIQR.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/01_InternetThroughputTest/01_SpeedTest.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/01_InternetThroughputTest/02_iPerf3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/01_InternetThroughputTest/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/02_IPTest/01_PingTest.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/02_IPTest/02_TraceTest.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/02_IPTest/03_TWAMP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/03_StreamingTest/01_IPTVTest.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/03_StreamingTest/02_IRRemoteControl.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/04_NetworkTools/01_PacketCapture.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/04_NetworkTools/02_NetworkEmulation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/04_NetworkTools/03_ConnectionInfo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/04_NetworkTools/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/Features.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/BottomStatusBar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/ConnectionInfo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/ControlPanel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/IPTVTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/Indicator_IPFiltering.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/Indicator_TCIF.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/Indicator_TrafficControl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/NetworkEmulation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/PacketCapture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/PacketCaptureUpload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/PingTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/SpeedTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/TWAMPResponder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/TWAMPSender.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/TraceTest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/iPerf3Client.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/iPerf3Server.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/03_Settings/01_Devices.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/03_Settings/02_UserConfig/01_IPTVProfile.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/03_Settings/02_UserConfig/02_IRProfile.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/03_Settings/02_UserConfig/_category_.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/03_Settings/Settings.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/03_Settings/img/IPTVDropdown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/03_Settings/img/IPTVProfile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/03_Settings/img/IRDropdown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/03_Settings/img/IRProfile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/03_Settings/img/Kebab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/03_Settings/img/ManageIPTVProfile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/03_Settings/img/ManageIRProfile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/03_Settings/img/Settings.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/04_Miscellaneous/02_Contacts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/99_UsageNotice.md" afterDir="false" />
+    <list default="true" id="672dec38-bdee-452f-8b94-cb7488ded6aa" name="변경" comment="20240321_netMeterN1Manual_Draft">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Features/IPTV Streaming Test.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Legacy/Features/IPTV Streaming Test.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Features/Packet Capture.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Legacy/Features/Packet Capture.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Features/Ping Test.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Legacy/Features/Ping Test.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Features/Specification.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Legacy/Features/Specification.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Features/TWAMP.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Legacy/Features/TWAMP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Features/Trace-route.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Legacy/Features/Trace-route.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Features/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/Legacy/Features/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Features/iPerf3.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Legacy/Features/iPerf3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Features/nPerf Internet Speed Test.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Legacy/Features/nPerf Internet Speed Test.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Features/network emulation.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Legacy/Features/network emulation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Getting-Started/Funtion/Charging" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Getting-Started/Funtion/Firmware Update" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Getting-Started/Funtion/LED Indicators" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04_Miscellaneous/01_FAQ.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Getting-Started/Funtion/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/03_StreamingTest/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Getting-Started/Set-up/IPTV Profile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Getting-Started/Set-up/IR Profile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Getting-Started/Set-up/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03_Settings/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Getting-Started/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/02_IPTest/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/intro.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-extras/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04_Miscellaneous/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-extras/img/docsVersionDropdown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-extras/img/localeDropdown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-extras/manage-docs-versions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial-extras/translate-your-site.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docusaurus.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docusaurus.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sidebars.js" beforeDir="false" afterPath="$PROJECT_DIR$/sidebars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,8 +72,17 @@
       <option name="presentableId" value="Default" />
       <updated>1709545332279</updated>
       <workItem from="1709545333656" duration="1530000" />
-      <workItem from="1710912432602" duration="28071000" />
+      <workItem from="1710912432602" duration="30260000" />
     </task>
+    <task id="LOCAL-00001" summary="20240321_netMeterN1Manual_Draft">
+      <option name="closed" value="true" />
+      <created>1710997451526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710997451526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20240321_netMeterN1Manual_Draft" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240321_netMeterN1Manual_Draft" />
   </component>
 </project>
