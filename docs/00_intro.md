@@ -10,7 +10,7 @@ and IPTV service providers.
 
 ## Portable
 
-netMeter is a handheld All-in-One Network Tester that provides field engineers with convenient portability 
+netMeter is a handheld all-in-One network tester that provides field engineers with convenient portability 
 for carrying it around.
 
 ## Consistency and easy to use

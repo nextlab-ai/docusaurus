@@ -15,6 +15,6 @@ sidebar_position: 1
 
 - Please use the provided silicone cover when using the device.
 
-- Please make sure to use a USB charger that supports 5V DC output.
-  (It is generally compatible with commonly used USB power banks and chargers, including USB Quick Charge chargers. 
-- However, for safe use, please ensure that the charger's specifications include an output voltage of 5V/2A DC.)
+- Please make sure to use a USB charger that supports 5V DC output.  
+(It is generally compatible with commonly used USB power banks and chargers, including USB Quick Charge chargers. 
+However, for safe use, please ensure that the charger's specifications include an output voltage of 5V/2A DC.)
