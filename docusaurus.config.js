@@ -55,8 +55,8 @@ const config = {
     {
       docs: {
         sidebar: {
-          hideable: true, // 사이드바를 숨기는 기능
-          autoCollapseCategories: true, // 특정 요소를 확장하면 그 외 요소들은 축소됨.
+          hideable: false, // 사이드바를 숨기는 기능
+          autoCollapseCategories: false, // 특정 요소를 확장하면 그 외 요소들은 축소됨.
         },
       },
       navbar: {
@@ -80,33 +80,33 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Products",
             items: [
               {
-                label: "Tutorial",
+                label: "netMeter",
                 to: "/docs/intro",
               },
             ],
           },
           {
-            title: "Community",
+            title: "Links",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "NEXTLab Global Website",
+                href: "https://www.nextlab.ai/en/",
               },
               {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "Contact Sales",
+                href: "mailto:sales@nextlab.co.kr",
               },
               {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                label: "Contact Support",
+                href: "mailto:support-netmeter@nextlab.co.kr",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} NEXTLab`,
       },
       prism: {
         theme: prismThemes.github,
