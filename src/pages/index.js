@@ -5,9 +5,9 @@ import { useEffect } from "react";
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
 
-  useEffect(() => {
-    window.location.href = "/docusaurus/docs/intro";
-  }, []);
+  // useEffect(() => {
+  //   window.location.href = "/docusaurus/docs/intro";
+  // }, []);
   return (
     <Layout
       title={`${siteConfig.title}`}
