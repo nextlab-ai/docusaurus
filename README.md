@@ -93,3 +93,4 @@
 3. `yarn deploy`
 끝
 
+commit & push test via IDE
