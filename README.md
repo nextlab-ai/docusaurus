@@ -92,5 +92,3 @@
 2. `git commit -m '매뉴얼 업데이트'`
 3. `yarn deploy`
 끝
-
-commit & push test via IDE
