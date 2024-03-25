@@ -1,11 +1,11 @@
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import { useEffect } from "react";
+import { useLayoutEffect } from "react";
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
 
-  useEffect(() => {
+  useLayoutEffect(() => {
     window.location.href = "/docs/intro";
   }, []);
   return (
