@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb1c8e7d-0d77-45f9-bc47-023f1063f510" name="Changes" comment="automated OTA offering context has been added on intro documentation">
+    <list default="true" id="eb1c8e7d-0d77-45f9-bc47-023f1063f510" name="Changes" comment="minor typo fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/00_intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/00_intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/01_netMeterN1_DeviceLayout.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/01_netMeterN1_DeviceLayout.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/04_netMeterN1_DataSheet.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/01_StartGuides/netMeterN1/04_netMeterN1_DataSheet.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +40,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Users/infinity/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -74,7 +71,8 @@
       <updated>1709545332279</updated>
       <workItem from="1709545333656" duration="1530000" />
       <workItem from="1710912432602" duration="33922000" />
-      <workItem from="1711014574517" duration="415000" />
+      <workItem from="1711014574517" duration="1606000" />
+      <workItem from="1711081993258" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="20240321_netMeterN1Manual_Draft">
       <option name="closed" value="true" />
@@ -116,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711004540331</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="minor typo fixed">
+      <option name="closed" value="true" />
+      <created>1711015054014</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711015054014</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +144,7 @@
     <MESSAGE value="Home ico redirect error fix" />
     <MESSAGE value="Data Sheet Link Embed" />
     <MESSAGE value="automated OTA offering context has been added on intro documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="automated OTA offering context has been added on intro documentation" />
+    <MESSAGE value="minor typo fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor typo fixed" />
   </component>
 </project>
