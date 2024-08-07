@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb1c8e7d-0d77-45f9-bc47-023f1063f510" name="Changes" comment="cname fix when deploy via npm">
+    <list default="true" id="eb1c8e7d-0d77-45f9-bc47-023f1063f510" name="Changes" comment="deploy test">
+      <change afterPath="$PROJECT_DIR$/docs/02_Features/img/IRRemote.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/02_Features/02_IPTest/03_TWAMP.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/02_IPTest/03_TWAMP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/04_Miscellaneous/01_FAQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Pre_Publish/04_Miscellaneous/01_FAQ.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/04_Miscellaneous/02_Contacts.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Pre_Publish/04_Miscellaneous/02_Contacts.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/04_Miscellaneous/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/Pre_Publish/04_Miscellaneous/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/99_UsageNotice.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Pre_Publish/99_UsageNotice.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/03_StreamingTest/02_IRRemoteControl.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/03_StreamingTest/02_IRRemoteControl.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,22 +31,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/infinity/git_repo/docusaurus/docusaurus/docs/03_Settings/img&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/infinity/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/infinity/git_repo/docusaurus/docusaurus/docs/03_Settings/img",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "ts.external.directory.path": "/Users/infinity/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/docs/03_Settings/img" />
@@ -88,7 +86,7 @@
       <workItem from="1712215821059" duration="1592000" />
       <workItem from="1721203634961" duration="45000" />
       <workItem from="1721203718327" duration="1881000" />
-      <workItem from="1722931672164" duration="2240000" />
+      <workItem from="1722931672164" duration="5305000" />
     </task>
     <task id="LOCAL-00001" summary="20240321_netMeterN1Manual_Draft">
       <option name="closed" value="true" />
@@ -146,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711329877496</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="deploy test">
+      <option name="closed" value="true" />
+      <created>1722992197376</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722992197376</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,12 +170,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="20240321_netMeterN1Manual_Draft" />
     <MESSAGE value="Home ico redirect error fix" />
     <MESSAGE value="Data Sheet Link Embed" />
     <MESSAGE value="automated OTA offering context has been added on intro documentation" />
     <MESSAGE value="minor typo fixed" />
     <MESSAGE value="cname fix when deploy via npm" />
-    <option name="LAST_COMMIT_MESSAGE" value="cname fix when deploy via npm" />
+    <MESSAGE value="deploy test" />
+    <option name="LAST_COMMIT_MESSAGE" value="deploy test" />
   </component>
 </project>

@@ -8,7 +8,7 @@ The IR Remote Control feature enables users to transmit IR signals using netMete
 IPTV set-top boxes or other peripheral devices that can be controlled by IR signals. 
 This facilitates various testing scenarios where IR Controls are required.
 
-![Control Panel](../img/ControlPanel.png)
+![IRRemote](../img/IRRemote.png)
 
 IR Control is globally accessible by expanding the Control Panel from the bottom status bar and 
 can be executed simultaneously with other measurement actions.
