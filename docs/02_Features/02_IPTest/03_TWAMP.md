@@ -57,7 +57,7 @@ Log lines will be displayed in real-time, containing detailed information about 
 Pressing the "Clear" button will clear the loglines. This action does not affect the log records that will be 
 uploaded and displayed in the history menu. You can still download the complete log in the History menu.
 
-## TWAMP : Sender Mode
+## TWAMP : Responder Mode
 
 import twampResponder from "../img/TWAMPResponder.png"
 

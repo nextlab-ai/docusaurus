@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb1c8e7d-0d77-45f9-bc47-023f1063f510" name="Changes" comment="minor typo fixed">
+    <list default="true" id="eb1c8e7d-0d77-45f9-bc47-023f1063f510" name="Changes" comment="cname fix when deploy via npm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/02_IPTest/03_TWAMP.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/02_IPTest/03_TWAMP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/04_Miscellaneous/01_FAQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Pre_Publish/04_Miscellaneous/01_FAQ.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/04_Miscellaneous/02_Contacts.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Pre_Publish/04_Miscellaneous/02_Contacts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/04_Miscellaneous/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/Pre_Publish/04_Miscellaneous/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/99_UsageNotice.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/Pre_Publish/99_UsageNotice.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +45,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/Users/infinity/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -54,12 +59,19 @@
       <recent name="$PROJECT_DIR$/docs/01_Start Guides/netMeter N1/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/Pre_Publish" />
       <recent name="$PROJECT_DIR$/docs/03_Settings" />
       <recent name="$PROJECT_DIR$/docs/03_Settings/02_UserConfig" />
       <recent name="$PROJECT_DIR$/docs/03_Settings/01_Devices" />
       <recent name="$PROJECT_DIR$/docs/01_Start Guides" />
-      <recent name="$PROJECT_DIR$/docs/01_Start Guides/netMeter N1" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -72,7 +84,11 @@
       <workItem from="1709545333656" duration="1530000" />
       <workItem from="1710912432602" duration="33922000" />
       <workItem from="1711014574517" duration="1606000" />
-      <workItem from="1711081993258" duration="600000" />
+      <workItem from="1711081993258" duration="2265000" />
+      <workItem from="1712215821059" duration="1592000" />
+      <workItem from="1721203634961" duration="45000" />
+      <workItem from="1721203718327" duration="1881000" />
+      <workItem from="1722931672164" duration="2240000" />
     </task>
     <task id="LOCAL-00001" summary="20240321_netMeterN1Manual_Draft">
       <option name="closed" value="true" />
@@ -122,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711015054014</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="cname fix when deploy via npm">
+      <option name="closed" value="true" />
+      <created>1711329877496</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711329877496</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +169,7 @@
     <MESSAGE value="Data Sheet Link Embed" />
     <MESSAGE value="automated OTA offering context has been added on intro documentation" />
     <MESSAGE value="minor typo fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor typo fixed" />
+    <MESSAGE value="cname fix when deploy via npm" />
+    <option name="LAST_COMMIT_MESSAGE" value="cname fix when deploy via npm" />
   </component>
 </project>
