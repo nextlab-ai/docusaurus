@@ -11,7 +11,7 @@ Users can select the measurement target from the channel list stored in the pre-
 
 import iptvTest from "../img/IPTVTest.png"
 
-<img src={iptvTest} style={{width:380}} />
+<img src={iptvTest} style={{width:700}} />
 
 ## Simple Multicast Join Test
 

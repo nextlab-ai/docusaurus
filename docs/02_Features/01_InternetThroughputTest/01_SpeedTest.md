@@ -17,10 +17,12 @@ The default upload and download time is set to 15 seconds each. Users can adjust
 
 ## Measure Server Location
 
-If it's set to Auto, nPerf automatically recommends the nearest measurement server optimized for speed tests based on 
-the user's public IP geolocation.
+If it's set to "Autoselect the nearest server", nPerf automatically recommends the nearest measurement server 
+optimized for speed tests based on the user's public IP geolocation.
 
-You can manually change the measurement server by refreshing the server list and selecting from it.
+
+You can also manually change the measurement server by selecting "Select Server Manually" and 
+choosing from the provided server list according to your needs.
 
 ## History
 

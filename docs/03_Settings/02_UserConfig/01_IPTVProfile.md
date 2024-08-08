@@ -54,7 +54,7 @@ import manageIPTVProfile from "../img/ManageIPTVProfile.png"
 
 ### Auto Scan
 
-#### **⚠︎CBT Notice:** In the Closed Beta Test stage, Auto Scan feature is not supported.
+#### **⚠︎ Notice:** This feature is currently under development.
 
 The Auto Scan feature enables users to automatically add IPTV channel information by scanning the EPG stream, 
 which includes IPTV channel information encoded in the SDT (Service Description Table) format.
@@ -67,7 +67,7 @@ scan the IPTV channel addresses from the EPG stream and add them to the Channel 
 
 ### **Channel list**
 
-#### **⚠︎CBT Notice:** In the Closed Beta Test stage, Import / Export feature is not supported.
+[//]: # (#### **⚠︎CBT Notice:** In the Closed Beta Test stage, Import / Export feature is not supported.)
 
 The list of channel information associated with the IPTV profile is displayed.
 

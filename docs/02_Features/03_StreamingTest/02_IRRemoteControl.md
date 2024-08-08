@@ -8,10 +8,10 @@ The IR Remote Control feature enables users to transmit IR signals using netMete
 IPTV set-top boxes or other peripheral devices that can be controlled by IR signals. 
 This facilitates various testing scenarios where IR Controls are required.
 
-![IRRemote](../img/IRRemote.png)
+IR Control can be accessed in Packet Capture and Network Emulation by clicking
+the "IR Control" button located in the bottom right corner of the screen.
 
-IR Control is globally accessible by expanding the Control Panel from the bottom status bar and 
-can be executed simultaneously with other measurement actions.
+![IRRemote](../img/IRRemote.png)
 
 Users can select the IR Profile, which is pre-configured in the IR Profile settings menu. 
 (Settings > User Config > IR Profile)
@@ -20,12 +20,8 @@ The IR commands associated with the profile will be displayed in the Command Lis
 
 By clicking or tapping a command button, the user can transmit the corresponding IR command.
 
-import bottomStatusBar from "../img/BottomStatusBar.png"
-
-<img src={bottomStatusBar} style={{width:380}} />
-
-While an IR signal is being transmitted, the command name of the IR signal will be displayed on the 
-status bar with an icon.
+While an IR signal is being transmitted, the command name of the IR signal 
+will be displayed in the top right corner of the IR Control Panel along with an icon.
 
 You can locate the IR transmitter of the netMeter in the Device Layout section corresponding to the 
 model in the startup guide. Ensure that the target device's IR receiver is lined up with netMeter's IR transmitter.

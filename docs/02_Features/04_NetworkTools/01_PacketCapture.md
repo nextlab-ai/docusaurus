@@ -7,11 +7,9 @@ sidebar_position: 1
 The Packet Capture feature captures incoming and outgoing packets through the "LAN" port of the netMeter. 
 You can locate the LAN port of the netMeter in the Device Layout section corresponding to the model in the start guide.
 
-#### **⚠︎CBT Notice:** In the Closed Beta Test stage, the maximum packet capture file size is capped at 100 MB.
+[//]: # (#### **⚠︎CBT Notice:** In the Closed Beta Test stage, the maximum packet capture file size is capped at 100 MB.)
 
-import packetCapture from "../img/PacketCapture.png"
-
-<img src={packetCapture} style={{width:380}} />
+![PacketCapture](../img/PacketCapture.png)
 
 ## File Format
 

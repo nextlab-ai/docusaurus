@@ -5,6 +5,10 @@ sidebar_position: 2
 
 Device section of settings menu.
 
+import setting_devices from "./img/Settings_Devices.png"
+
+<img src={setting_devices} style={{width:380}} />
+
 ## Registration
 
 In this section, users can manage netMeter devices registered to their account. Devices can be registered by entering the device’s serial number, which is located on a label on the back of the device. For more details, refer to the device start guide corresponding to the model.
