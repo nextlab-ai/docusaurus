@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb1c8e7d-0d77-45f9-bc47-023f1063f510" name="Changes" comment="Manual Update (20240809)">
-      <change afterPath="$PROJECT_DIR$/docs/03_Settings/03_PDFReportPresets.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/02_Features/06_Results/02_PDFReport.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/06_Results/02_PDFReport.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/03_Settings/03_UserConfig/01_IPTVProfile.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03_Settings/04_UserConfig/01_IPTVProfile.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/03_Settings/03_UserConfig/02_IRProfile.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03_Settings/04_UserConfig/02_IRProfile.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/03_Settings/03_UserConfig/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03_Settings/04_UserConfig/_category_.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/03_Settings/img/Settings_PDFPresets.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/03_Settings/img/Settings_PDFPresets.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/img/PDFReport.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/img/PDFReport.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Pre_Publish/04_Miscellaneous/01_FAQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04_Miscellaneous/01_FAQ.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/Pre_Publish/04_Miscellaneous/02_Contacts.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +38,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/infinity/git_repo/docusaurus/docusaurus/docs/03_Settings",
+    "last_opened_file_path": "/Users/infinity/git_repo/docusaurus/docusaurus/docs/02_Features/img",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,18 +51,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/03_Settings" />
       <recent name="$PROJECT_DIR$/docs/02_Features/img" />
+      <recent name="$PROJECT_DIR$/docs/03_Settings" />
       <recent name="$PROJECT_DIR$/docs/02_Features/06_Results" />
       <recent name="$PROJECT_DIR$/docs/03_Settings/img" />
       <recent name="$PROJECT_DIR$/docs/03_Settings/02_UserConfig" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/04_Miscellaneous" />
       <recent name="$PROJECT_DIR$/docs/02_Features/05_Miscellaneous" />
       <recent name="$PROJECT_DIR$/docs/02_Features/01_Miscellaneous" />
       <recent name="$PROJECT_DIR$/static/Pre_Publish" />
       <recent name="$PROJECT_DIR$/docs/03_Settings" />
-      <recent name="$PROJECT_DIR$/docs/03_Settings/02_UserConfig" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -90,7 +87,7 @@
       <workItem from="1712215821059" duration="1592000" />
       <workItem from="1721203634961" duration="45000" />
       <workItem from="1721203718327" duration="1881000" />
-      <workItem from="1722931672164" duration="48568000" />
+      <workItem from="1722931672164" duration="55780000" />
     </task>
     <task id="LOCAL-00001" summary="20240321_netMeterN1Manual_Draft">
       <option name="closed" value="true" />
@@ -180,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723181560223</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Manual Update (20240809)">
+      <option name="closed" value="true" />
+      <created>1723182675437</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723182675437</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
