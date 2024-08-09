@@ -9,7 +9,7 @@ User can export measurement results to PDF Report.
 ![PDF Report](../img/PDFReport.png)
 
 At the time of export, you can enter Publisher Info and Client Info to be included in the report. 
-Publisher Info can also be set permanently in (Settings > PDF Reporting Preset).
+Default Publisher Info can also be set in (Settings > PDF Reporting Preset).
 
 From the result history list, select one or more measurements to export as a PDF report, 
 then click the PDF Report button to download the PDF report for the selected measurements.

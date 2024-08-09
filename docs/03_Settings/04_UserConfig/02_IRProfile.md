@@ -57,7 +57,7 @@ Users can verify whether the target device operates based on the entered IR sign
 
 ### **Command list**
 
-#### **⚠︎CBT Notice:** In the Closed Beta Test stage, Import / Export feature is not supported.
+[//]: # (#### **⚠︎CBT Notice:** In the Closed Beta Test stage, Import / Export feature is not supported.)
 
 The list of IR Commands associated with the IR profile is displayed.
 
