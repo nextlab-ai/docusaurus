@@ -23,7 +23,7 @@ enabling consistent data collection.
 
 ## Versatile Cloud-Based Operation
 
-Since netMeter is operated through a cloud-based web UI, it is not dependent on device platforms and can be 
+Since netMeter is operated through a [**netHUB**(cloud-based web UI)](https://app.netmeter.io), it is not dependent on device platforms and can be 
 remotely operated from anywhere. This capability reduces unnecessary on-site visits, saving costs, 
 and enables adaptation to various usage scenarios.
 

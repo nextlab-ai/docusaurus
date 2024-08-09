@@ -18,11 +18,19 @@ sidebar_position: 1
 ## Streaming Test
 
 - ### [IPTV Test](StreamingTest/IPTVTest)
-- ### [IR Remote Control](StreamingTest/IRRemoteControl)
-
 
 ## Network Tools
 
 - ### [Packet Capture](NetworkTools/PacketCapture)
 - ### [Network Emulation](NetworkTools/NetworkEmulation)
 - ### [Connection Info](NetworkTools/ConnectionInfo)
+- ### [LAN Scan](NetworkTools/LANScan)
+
+## Miscellaneous
+
+- ### [IR Remote Control](Miscellaneous/IRRemoteControl)
+
+## Results
+
+- ### [Results History](Results/ResultsHistory)
+- ### [PDF Report](Results/PDFReport)

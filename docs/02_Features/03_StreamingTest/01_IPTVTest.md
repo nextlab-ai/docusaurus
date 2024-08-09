@@ -53,6 +53,7 @@ Indicates that the integrity of the data frame at the data link layer. This erro
 
 If CRC Error occurs, it's essential to investigate potential issues within the network hardware, such as faulty cables, connectors, or network interface cards, as these could contribute to data corruption and affect overall network performance and reliability.
 
-## History
+## Results History
 
-When the measurement is complete, netMeter automatically uploads the measurement results to the server. You can access measurement records and details at any time through the 'History' menu at the top of the screen.
+When the measurement is complete, netMeter automatically uploads the measurement results to the server.
+You can access measurement records and details at any time through the 'Results' tab at the bottom of the screen.

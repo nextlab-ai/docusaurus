@@ -34,7 +34,7 @@ either reaching the destination or being discarded.
 The default value for Ping Test is set to 64.
 Users can adjust it between 1 and 255.
 
-## History
+## Results History
 
-When the measurement is complete, netMeter automatically uploads the measurement results to the server. 
-You can access measurement records and details at any time through the 'History' menu at the top of the screen.
+When the measurement is complete, netMeter automatically uploads the measurement results to the server.
+You can access measurement records and details at any time through the 'Results' tab at the bottom of the screen.

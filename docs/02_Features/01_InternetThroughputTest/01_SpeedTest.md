@@ -24,7 +24,7 @@ optimized for speed tests based on the user's public IP geolocation.
 You can also manually change the measurement server by selecting "Select Server Manually" and 
 choosing from the provided server list according to your needs.
 
-## History
+## Results History
 
 When the measurement is complete, netMeter automatically uploads the measurement results to the server. 
-You can access measurement records and details at any time through the 'History' menu at the top of the screen.
+You can access measurement records and details at any time through the 'Results' tab at the bottom of the screen.

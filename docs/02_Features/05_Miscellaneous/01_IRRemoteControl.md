@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # IR Remote Control
@@ -8,8 +8,8 @@ The IR Remote Control feature enables users to transmit IR signals using netMete
 IPTV set-top boxes or other peripheral devices that can be controlled by IR signals. 
 This facilitates various testing scenarios where IR Controls are required.
 
-IR Control can be accessed in Packet Capture and Network Emulation by clicking
-the "IR Control" button located in the bottom right corner of the screen.
+IR Control can be accessed in the Packet Capture and Network Emulation features 
+by clicking the "IR Control" button located in the bottom right corner of the screen.
 
 ![IRRemote](../img/IRRemote.png)
 

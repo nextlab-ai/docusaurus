@@ -59,14 +59,14 @@ when using the UDP protocol.
 This statistic is only available when using the UDP protocol.
 
 Pressing the "Reset" button will reset the statistics and begin recalculating them from the moment it is pressed. 
-This action does not affect the statistics that will be uploaded and displayed in the history menu.
+This action does not affect the statistics that will be uploaded and displayed in the results history.
 
 ### Log
 
-Log lines will be displayed in real-time, containing detailed information about ongoing iPerf3 measurements.
+Log lines will be displayed in real-time, containing detailed information about ongoing iPerf3 measurements. 
+Pressing the "Clear" button will clear the loglines.
 
-Pressing the "Clear" button will clear the loglines. This action does not affect the log records that will be 
-uploaded and displayed in the history menu. You can still download the complete log in the History menu.
+[//]: # (This action does not affect the log records that will be uploaded and displayed in the history menu. You can still download the complete log in the History menu.)
 
 ## iPerf3 : Server Mode
 
@@ -107,17 +107,18 @@ the average bandwidth. A lower standard deviation indicates more consistent band
 reflecting stable network performance.
 - **Maximum Bandwidth:** The highest bandwidth achieved during the iPerf3 test.
 
-Pressing the "Reset" button will reset the statistics and begin recalculating them from the moment it is pressed. 
-This action does not affect the statistics that will be uploaded and displayed in the history menu.
+Pressing the "Reset" button will reset the statistics and begin recalculating them from the moment it is pressed.
 
 ### Log
 
-Log lines will be displayed in real-time, containing detailed information about ongoing iPerf3 measurements.
+Log lines will be displayed in real-time, containing detailed information about ongoing iPerf3 measurements. 
+Pressing the "Clear" button will clear the log lines.
 
-Pressing the "Clear" button will clear the log lines. This action does not affect the log records that will be 
-uploaded and displayed in the history menu. You can still download the complete log in the History menu.
+[//]: # (This action does not affect the log records that will be uploaded and displayed in the history menu. You can still download the complete log in the History menu.)
 
-## History
+## Results History
 
-When the measurement is complete, netMeter automatically uploads the measurement results to the server. 
-You can access measurement records and details at any time through the 'History' menu at the top of the screen.
+#### **⚠︎Notice:** iPerf3 Server Mode does not register measurement history.
+
+When the measurement is complete, netMeter automatically uploads the measurement results to the server.
+You can access measurement records and details at any time through the 'Results' tab at the bottom of the screen.

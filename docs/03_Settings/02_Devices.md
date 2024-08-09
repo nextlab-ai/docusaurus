@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 ---
+
 # Devices
 
 Device section of settings menu.

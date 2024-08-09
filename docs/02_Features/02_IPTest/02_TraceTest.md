@@ -40,7 +40,7 @@ In this case, users can alternatively use the UDP protocol instead.
 
 The default protocol is set to ICMP.
 
-### History
+## Results History
 
-When the measurement is complete, netMeter automatically uploads the measurement results to the server. 
-You can access measurement records and details at any time through the 'History' menu at the top of the screen.
+When the measurement is complete, netMeter automatically uploads the measurement results to the server.
+You can access measurement records and details at any time through the 'Results' tab at the bottom of the screen.

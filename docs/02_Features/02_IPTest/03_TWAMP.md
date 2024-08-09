@@ -11,7 +11,7 @@ netMeter can function as both the sender and responder in TWAMP, allowing you to
 measurement setup between the destination and netMeter within your network infrastructure for a 
 comprehensive network performance analysis at a low cost.
 
-#### **⚠︎CBT Notice:** In the Closed Beta Test stage, only TWAMP Light mode (UDP) is supported.
+#### **⚠︎Notice:** At its current stage, netMeter supports only TWAMP Light mode (UDP).
 
 ## TWAMP : Sender Mode
 
@@ -32,9 +32,10 @@ When the user presses the start button, netMeter will initiate a TWAMP sequence 
 The default TWAMP sending sequence configuration is set to the following conditions and can be configurable 
 via Organization Settings for B2B purposes.
 
-- **Number of packets to send:** 20
+- **Number of packets to send:** 100
 - **MTU:** 1500 Bytes
-- **Interval:** 50ms
+- **Payload:** 1472 Bytes
+- **Interval:** 10 s
 - **TTL:** 64 Hops
 
 ### Statistics
@@ -48,14 +49,12 @@ View detailed statistics generated from the TWAMP measurements, including:
 - **Maximum Latency:** Longest round-trip time observed during measurements.
 
 Pressing the "Reset" button will reset the statistics and begin recalculating them from the moment it is pressed. 
-This action does not affect the statistics that will be uploaded and displayed in the history menu.
+This action does not affect the statistics that will be uploaded and displayed in the results history.
 
 ### Log
 
-Log lines will be displayed in real-time, containing detailed information about ongoing TWAMP measurements.
-
-Pressing the "Clear" button will clear the loglines. This action does not affect the log records that will be 
-uploaded and displayed in the history menu. You can still download the complete log in the History menu.
+Log lines will be displayed in real-time, containing detailed information about ongoing TWAMP measurements. 
+Pressing the "Clear" button will clear the loglines.
 
 ## TWAMP : Responder Mode
 
@@ -76,12 +75,12 @@ The IP address and port of the netMeter will be displayed on the button. This in
 
 ### Log
 
-Log lines will be displayed in real-time, containing detailed information about ongoing TWAMP measurements.
+Log lines will be displayed in real-time, containing detailed information about ongoing TWAMP measurements. 
+Pressing the "Clear" button will clear the loglines.
 
-Pressing the "Clear" button will clear the loglines. This action does not affect the log records that will be 
-uploaded and displayed in the history menu. You can still download the complete log in the History menu.
+## Results History
 
-## History
+#### **⚠︎Notice:** TWAMP Responder Mode does not register measurement history.
 
-When the measurement is complete, netMeter automatically uploads the measurement results to the server. 
-You can access measurement records and details at any time through the 'History' menu at the top of the screen.
+When the measurement is complete, netMeter automatically uploads the measurement results to the server.
+You can access measurement records and details at any time through the 'Results' tab at the bottom of the screen.
