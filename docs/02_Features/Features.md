@@ -4,30 +4,36 @@ sidebar_position: 1
 
 # Features
 
-## Internet Throughput Test
+## Internet Speed Tests
 
-- ### [Speed Test](InternetThroughputTest/SpeedTest)
-- ### [iPerf3](InternetThroughputTest/iPerf3)
+- ### [M-LAB NDT](InternetSpeedTests/MLabNDT)
+- ### [nPerf](InternetSpeedTests/nPerf)
 
-## IP Test
 
-- ### [Ping Test](IPTest/PingTest)
-- ### [Trace Test](IPTest/TraceTest)
-- ### [TWAMP](IPTest/TWAMP)
+## Media Streaming Tests
 
-## Streaming Test
+- ### [IPTV Test](MediaStreamingTests/IPTVTest)
 
-- ### [IPTV Test](StreamingTest/IPTVTest)
+## End to End Tests
+
+- ### [iPerf3](EndtoEndTests/iPerf3)
+- ### [TWAMP](EndtoEndTests/TWAMP)
 
 ## Network Tools
 
+- ### [Ping Test](NetworkTools/PingTest)
+- ### [Trace Test](NetworkTools/TraceTest)
 - ### [Packet Capture](NetworkTools/PacketCapture)
 - ### [Network Emulation](NetworkTools/NetworkEmulation)
-- ### [Connection Info](NetworkTools/ConnectionInfo)
-- ### [LAN Scan](NetworkTools/LANScan)
+
+
+## Discovering Tools
+
+- ### [LAN Scan](DiscoveringTools/LANScan)
 
 ## Miscellaneous
 
+- ### [Connection Info](Miscellaneous/ConnectionInfo)
 - ### [IR Remote Control](Miscellaneous/IRRemoteControl)
 
 ## Results

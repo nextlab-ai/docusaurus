@@ -1,13 +1,13 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# Speed Test
+# nPerf
 
 This measurement service is featured by nPerf. It measures download and upload speeds from netMeter to the internet,
 detects Round-Trip Time (RTT) and packet loss, and reports CRC error counts at the Network Interface Card (NIC) level.
 
-import speedTest from "../img/SpeedTest.png"
+import speedTest from "../img/nPerf.png"
 
 <img src={speedTest} style={{width:380}} />
 

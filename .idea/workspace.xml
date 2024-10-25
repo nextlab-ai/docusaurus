@@ -5,10 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb1c8e7d-0d77-45f9-bc47-023f1063f510" name="Changes" comment="Manual Update (20240809)">
+      <change afterPath="$PROJECT_DIR$/docs/02_Features/01_InternetSpeedTests/01_MLabNDT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/02_Features/05_DiscoveringTools/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/02_Features/06_Miscellaneous/_category_.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/02_Features/07_Results/_category_.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/02_Features/img/PDFReport.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/img/PDFReport.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Pre_Publish/04_Miscellaneous/01_FAQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/04_Miscellaneous/01_FAQ.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Pre_Publish/04_Miscellaneous/02_Contacts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/01_InternetThroughputTest/01_SpeedTest.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/01_InternetSpeedTests/02_nPerf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/01_InternetThroughputTest/02_iPerf3.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/03_EndtoEndTests/01_iPerf3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/01_InternetThroughputTest/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/01_InternetSpeedTests/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/02_IPTest/01_PingTest.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/04_NetworkTools/01_PingTest.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/02_IPTest/02_TraceTest.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/04_NetworkTools/02_TraceTest.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/02_IPTest/03_TWAMP.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/03_EndtoEndTests/02_TWAMP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/02_IPTest/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/03_EndtoEndTests/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/03_StreamingTest/01_IPTVTest.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/02_MediaStreamingTests/01_IPTVTest.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/03_StreamingTest/_category_.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/02_MediaStreamingTests/_category_.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/04_NetworkTools/01_PacketCapture.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/04_NetworkTools/03_PacketCapture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/04_NetworkTools/02_NetworkEmulation.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/04_NetworkTools/04_NetworkEmulation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/04_NetworkTools/03_ConnectionInfo.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/06_Miscellaneous/01_ConnectionInfo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/04_NetworkTools/04_LANScan.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/05_DiscoveringTools/02_LANScan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/05_Miscellaneous/01_IRRemoteControl.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/06_Miscellaneous/02_IRRemoteControl.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/06_Results/01_ResultsHistory.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/07_Results/01_ResultsHistory.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/06_Results/02_PDFReport.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/07_Results/02_PDFReport.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/Features.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/Features.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/02_Features/img/SpeedTest.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/02_Features/img/nPerf.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +37,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LMS-PD-NEXTLab"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://LMS-PD-NEXTLab@github.com/nextlab-ai/docusaurus",
+    "accountId": "9b943bc5-4798-4de4-b3b2-797e732eb047"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -38,7 +69,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/infinity/git_repo/docusaurus/docusaurus/docs/02_Features/img",
+    "last_opened_file_path": "/Users/infinity/git_repo/docusaurus/docusaurus/docs/02_Features/06_Results",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,24 +82,24 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/02_Features/img" />
-      <recent name="$PROJECT_DIR$/docs/03_Settings" />
       <recent name="$PROJECT_DIR$/docs/02_Features/06_Results" />
-      <recent name="$PROJECT_DIR$/docs/03_Settings/img" />
-      <recent name="$PROJECT_DIR$/docs/03_Settings/02_UserConfig" />
+      <recent name="$PROJECT_DIR$/docs/02_Features/05_Miscellaneous" />
+      <recent name="$PROJECT_DIR$/docs/02_Features/01_InternetSpeedTests" />
+      <recent name="$PROJECT_DIR$/docs/02_Features" />
+      <recent name="$PROJECT_DIR$/docs/02_Features/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/04_Miscellaneous" />
+      <recent name="$PROJECT_DIR$/docs/02_Features/05_DiscoveringTools" />
       <recent name="$PROJECT_DIR$/docs/02_Features/05_Miscellaneous" />
-      <recent name="$PROJECT_DIR$/docs/02_Features/01_Miscellaneous" />
-      <recent name="$PROJECT_DIR$/static/Pre_Publish" />
-      <recent name="$PROJECT_DIR$/docs/03_Settings" />
+      <recent name="$PROJECT_DIR$/docs/02_Features/04_NetworkTools" />
+      <recent name="$PROJECT_DIR$/docs/02_Features/03_EndtoEndTests" />
+      <recent name="$PROJECT_DIR$/docs/04_Miscellaneous" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
       </set>
     </attachedChunks>
   </component>
@@ -87,7 +118,9 @@
       <workItem from="1712215821059" duration="1592000" />
       <workItem from="1721203634961" duration="45000" />
       <workItem from="1721203718327" duration="1881000" />
-      <workItem from="1722931672164" duration="55780000" />
+      <workItem from="1722931672164" duration="56310000" />
+      <workItem from="1729832991826" duration="601000" />
+      <workItem from="1729833643914" duration="5018000" />
     </task>
     <task id="LOCAL-00001" summary="20240321_netMeterN1Manual_Draft">
       <option name="closed" value="true" />
@@ -185,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723182675437</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Manual Update (20240809)">
+      <option name="closed" value="true" />
+      <created>1723192653370</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1723192653370</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +237,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
