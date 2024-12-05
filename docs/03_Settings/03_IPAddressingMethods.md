@@ -10,7 +10,7 @@ This functionality is enabled by connecting a Bluetooth USB dongle to the netMet
 ⚠︎ This feature relies on the Web Bluetooth API, and is **only supported on Chrome and Edge browsers for Windows, Mac, Linux, and Android.** Apple iOS is not supported. For details, refer to [MDN Web Bluetooth API Browser Compatibility.](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
 
 
-![neMeterN1 USB Port](./img/USBPort.png)
+![netMeterN1 USB Port](./img/USBPort.png)
 
 Compatibility has been tested only with Bluetooth USB dongles that meet the following specifications.
 
