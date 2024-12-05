@@ -42,7 +42,7 @@ After making the necessary changes, press the Apply button to apply the modifica
 
 Once the Apply button is pressed and the configuration is sent to the netMeter, it may appear in an Offline state until it receives the IP allocation based on the configured settings. If the netMeter successfully obtains the correct IP from the router and connects to the internet, the updated netMeter Link Info reflecting the new settings will be displayed, and the netMeter will appear Online.
 
-If incorrect or conflicting IP information is entered, causing a conflict, the netMeter may remain in an Offline state. In such cases, please double-check the entered information and try again.
+If incorrect or conflicting IP information is entered, and the netMeter is unable to obtain an IP, it may remain in an Offline state. In such cases, please double-check the entered information and try again.
 
 ## Revert to DHCP
 
