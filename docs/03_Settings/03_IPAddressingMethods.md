@@ -19,7 +19,7 @@ Compatibility has been tested only with Bluetooth USB dongles that meet the foll
 No additional user actions are required to use these Bluetooth USB dongles, as they are natively supported in the latest firmware of the netMeter. 
 For detailed technical support regarding compatible USB Bluetooth dongles, please contact [support-netmeter@nextlab.co.kr](mailto:support-netmeter@nextlab.co.kr)
 
-## Pairing
+## Bluetooth Pairing
 
 ![How to Pairing via Bluetooth](./img/BTPairing.png)
 
