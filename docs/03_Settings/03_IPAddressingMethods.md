@@ -19,9 +19,9 @@ Compatibility has been tested only with Bluetooth USB dongles that meet the foll
 No additional user actions are required to use these Bluetooth USB dongles, as they are natively supported in the latest firmware of the netMeter. 
 For detailed technical support regarding compatible USB Bluetooth dongles, please contact [support-netmeter@nextlab.co.kr](mailto:support-netmeter@nextlab.co.kr)
 
-## Paring
+## Pairing
 
-![How to Paring via Bluetooth](./img/BTPairing.png)
+![How to Pairing via Bluetooth](./img/BTPairing.png)
 
 With a compatible Bluetooth dongle attached to the netMeter, navigate to Settings > Devices > IP Configuration > Pairing Button.
 
