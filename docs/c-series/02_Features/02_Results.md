@@ -2,6 +2,8 @@
 sidebar_position: 2
 ---
 
+# Results
+
 ## Viewing Measurement Results
 
 <img src={require('./img/measure-result.png').default} width="200" />
@@ -44,3 +46,9 @@ This graph is displayed only when "UI for experts" is enabled in the "Lab" menu.
 ![action-log](./img/action-log.png)
 
 Record actions taken, such as cable replacement, based on the identified issues.
+
+## Viewing Measurement History
+
+![measure-results](./img/measure-results.png)
+
+You can view all previous measurement results in the "Results" menu. Click an item to navigate to the detailed measurement results page.
