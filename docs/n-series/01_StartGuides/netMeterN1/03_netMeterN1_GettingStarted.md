@@ -8,10 +8,10 @@ sidebar_position: 3
 
 ![neMeterN1 Connecting WAN](./img/netMeterN1_WANConnection.png)
 
-netMeter operates through a [**netHUB**(cloud-based web UI)](https://app.netmeter.io). To control netMeter via the [**netHUB**](https://app.netmeter.io), 
+netMeter operates through a [**netHub**(cloud-based web UI)](https://app.netmeter.io). To control netMeter via the [**netHub**](https://app.netmeter.io),
 netMeter must be able to obtain an IP address to connect to the internet.
 
-Please correctly plug in an internet-connectable LAN cable into the WAN port (RJ-45) of netMeter. 
+Please correctly plug in an internet-connectable LAN cable into the WAN port (RJ-45) of netMeter.
 It is located on the back right side of the device.
 
 ### Powering ON
@@ -21,8 +21,8 @@ When the device is powered on, the 'Power' LED on the status indicator will illu
 
 While the device is booting up, the 'Ready' LED on the status indicator will flash every 2 seconds.
 
-If the device doesn't boot up normally within 1 minute after powering on, it will flash the 'Power' LED 
-for 2 seconds and then automatically shut down. If this happens, please contact our customer service department 
+If the device doesn't boot up normally within 1 minute after powering on, it will flash the 'Power' LED
+for 2 seconds and then automatically shut down. If this happens, please contact our customer service department
 as there may be an issue with the device.
 
 Once the boot process is complete and the device is ready and online, the 'Ready' LED will remain illuminated.
@@ -34,27 +34,27 @@ If the device fails to obtain an IP address to connect to the internet, the 'Rea
 ![neMeterN1 LED Indicator Layout](./img/netMeterN1_LEDIndicatorLayout.png)
 ![neMeterN1 LED Indicator Description](./img/netMeterN1_LEDIndicatorDescription.png)
 
-### netHUB
+### netHub
 
 ![neMeterN1 WebUI QR](./img/netMeterN1_WebUIQR.png)
 
-netMeter is operated through a [**netHUB**(cloud-based web UI)](https://app.netmeter.io) and is not dependent on device platforms, 
+netMeter is operated through a [**netHub**(cloud-based web UI)](https://app.netmeter.io) and is not dependent on device platforms,
 allowing remote operation from anywhere.
 
-Inside the package, you can find a user guide with a QR code to visit the [**netHUB**](https://app.netmeter.io) to control 
+Inside the package, you can find a user guide with a QR code to visit the [**netHub**](https://app.netmeter.io) to control
 netMeter. You can also visit via this link : [https://app.netmeter.io](https://app.netmeter.io/)
-
 
 ### Registering device to account
 
 #### ⚠︎Before start
+
 - The device must obtain an IP address and be connected online in order to register.
   Please check if the 'Ready' status LED indicator is showing a steady green light.
 
 Device must be registered to the netMeter user’s account in order to use it.
-To do so, log in to the [**netHUB**](https://app.netmeter.io). Navigate to the 'Settings' menu, 
-then under the 'Devices' setting, you will find the 'Register' button. 
-([**netHUB**](https://app.netmeter.io) > Settings > Devices > Register)
+To do so, log in to the [**netHub**](https://app.netmeter.io). Navigate to the 'Settings' menu,
+then under the 'Devices' setting, you will find the 'Register' button.
+([**netHub**](https://app.netmeter.io) > Settings > Devices > Register)
 
 ![neMeterN1 Device Register](./img/netMeterN1_DeviceRegister.png)
 

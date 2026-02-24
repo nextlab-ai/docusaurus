@@ -20,5 +20,5 @@ sidebar_position: 2
 
 ### How to check the battery level.
 
-A short press of the 'Power Button' will trigger the battery level indicator to blink three times, 
+A short press of the 'Power Button' will trigger the battery level indicator to blink three times,
 indicating the remaining battery level of the device.

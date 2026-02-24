@@ -145,7 +145,7 @@ Press and hold the power button for 2-3 seconds to turn the device on or off. If
 <summary>In what situations is the netMeter used?</summary>
 <div markdown="1">
 It can be used for network testing on-site and remotely, enabling end-to-end network testing.
-For more detailed information, please visit: [netMeter Features Documentation](https://docs.netmeter.io/docs/Features/Features)
+For more detailed information, please visit: [netMeter Features Documentation](https://docs.netmeter.io/docs/n-series/Features/Features)
 </div>
 </details>
 
@@ -160,7 +160,7 @@ Right now, because you only have one device, you cannot do this.
 
 If you want to measure the speed end-to-end within our internal network, you can install the iPerf tool and set it up as a server.
 
-iPerf3 servers are platform-independent, meaning you can install iPerf3 and use it as a server or client on Ubuntu, Windows, Mac, etc. 
+iPerf3 servers are platform-independent, meaning you can install iPerf3 and use it as a server or client on Ubuntu, Windows, Mac, etc.
 The command to start the server is `iperf3 -s -p 5201 -V` (netMeter installed iperf3 version iperf 3.7 (cJSON 1.5.2)). Also, you can use netMeter as an iPerf Server as well.
 
 Please see [https://iperf.fr/iperf-download.php](https://iperf.fr/iperf-download.php) for further information about iPerf3
@@ -178,8 +178,6 @@ This might cause slow results due to your physical distance to Singapore, so I r
 To install TWAMP and use the twamp sender or responder, please refer to the following link: [https://demirten.github.io/twamp-gui/](https://demirten.github.io/twamp-gui/)
 
 We have confirmed mutual measurements between it and our netMeter by running it as a responder.
+
 </div>
 </details>
-
-
-

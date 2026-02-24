@@ -6,7 +6,11 @@ export default function Home() {
   const { siteConfig } = useDocusaurusContext();
 
   useLayoutEffect(() => {
-    window.location.href = "/docs/intro";
+    window.location.href = "/docs/n-series/intro";
+
+    if (window.location.pathname === "/docs/intro") {
+      window.location.href = "/docs/n-series/intro";
+    }
   }, []);
   return (
     <Layout

@@ -11,7 +11,7 @@ const config = {
   title: "netMeter",
   tagline:
     "Unleash the potential of NEXTLab netMeter, your all-in-one solution for testing network conditions.",
-  favicon: "img/favicon.ico",
+  favicon: "img/nextlab.png",
 
   // Set the production url of your site here
   url: "https://docs.netmeter.io",
@@ -64,15 +64,23 @@ const config = {
         title: "netMeter",
         logo: {
           alt: "netMeter Logo",
-          src: "img/logo.png",
-          href: "/docs/intro",
+          src: "img/nextlab.png",
+          href: "/docs/n-series/intro",
         },
         items: [
           {
             type: "docSidebar",
-            sidebarId: "netmeterSidebar",
+            sidebarId: "netmeterNSeriesSidebar",
             position: "left",
-            label: "User Manual",
+            label: "N Series",
+            href: "/docs/n-series/intro",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "netmeterCSeriesSidebar",
+            position: "left",
+            label: "C Series",
+            href: "/docs/c-series/intro",
           },
         ],
       },
@@ -83,8 +91,12 @@ const config = {
             title: "Products",
             items: [
               {
-                label: "netMeter",
-                to: "/docs/intro",
+                label: "netMeter N Series",
+                to: "/docs/n-series/intro",
+              },
+              {
+                label: "netMeter C Series",
+                to: "/docs/c-series/intro",
               },
             ],
           },

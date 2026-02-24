@@ -4,11 +4,10 @@ sidebar_position: 3
 
 # DHCP / Static IP
 
-The netMeter supports both static IP and DHCP methods for obtaining an IP address from a router.     
+The netMeter supports both static IP and DHCP methods for obtaining an IP address from a router.  
 This functionality is enabled by connecting a Bluetooth USB dongle to the netMeter device that supports USB port expansion.
 
-⚠︎ This feature relies on the Web Bluetooth API, and is **only supported on Chrome and Edge browsers for Windows, Mac, Linux, and Android.** Apple iOS is not supported. For details, refer to [MDN Web Bluetooth API Browser Compatibility.](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
-
+⚠︎ This feature relies on the Web Bluetooth API, and is **only supported on Chrome and Edge browsers for Windows, Mac, Linux, and Android.** Apple iOS is not supported. For details, refer to [MDN Web Bluetooth API Browser Compatibility.](https://developer.mozilla.org/en-US/docs/n-seires/Web/API/Web_Bluetooth_API)
 
 ![netMeterN1 USB Port](./img/USBPort.png)
 
@@ -16,7 +15,7 @@ Compatibility has been tested only with Bluetooth USB dongles that meet the foll
 
 - Realtek RTL8821CU chipset
 
-No additional user actions are required to use these Bluetooth USB dongles, as they are natively supported in the latest firmware of the netMeter. 
+No additional user actions are required to use these Bluetooth USB dongles, as they are natively supported in the latest firmware of the netMeter.
 For detailed technical support regarding compatible USB Bluetooth dongles, please contact [support-netmeter@nextlab.co.kr](mailto:support-netmeter@nextlab.co.kr)
 
 ## Bluetooth Pairing
@@ -25,7 +24,7 @@ For detailed technical support regarding compatible USB Bluetooth dongles, pleas
 
 With a compatible Bluetooth dongle attached to the netMeter, navigate to Settings > Devices > IP Configuration > Pairing Button.
 
-When the Bluetooth pairing popup appears in the browser displaying netHUB, select the device that matches the serial number of your netMeter and proceed with pairing.
+When the Bluetooth pairing popup appears in the browser displaying netHub, select the device that matches the serial number of your netMeter and proceed with pairing.
 
 ⚠︎ On some devices, the browser may request location access or permission to scan for nearby devices. Please allow these permissions in the browser app's security settings.
 
@@ -47,7 +46,6 @@ If incorrect or conflicting IP information is entered, and the netMeter is unabl
 ## Revert to DHCP
 
 ![Revert to DHCP](./img/BTReset.png)
-
 
 If there is an issue with the static IP configuration or you need to revert to the DHCP allocation method, you can reset the static IP settings by pressing the Reset button, which will restore the device to DHCP allocation mode.
 
