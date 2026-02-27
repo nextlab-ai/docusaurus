@@ -50,6 +50,24 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      "@docusaurus/plugin-client-redirects",
+      {
+        redirects: [
+          {
+            from: "/",
+            to: "/docs/n-series/intro",
+          },
+          {
+            from: "/docs/intro",
+            to: "/docs/n-series/intro",
+          },
+        ],
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     {
